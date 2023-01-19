@@ -1,0 +1,40 @@
+https://stackoverflow.com/questions/15381198/remove-credentials-from-git
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin <url>
+git push -u origin main      //git push --set-upstream origin master  // -u means upstream
+
+git remote -v // to know the source version which is binded
+git remote remove origin  // remove the set version
+
+git --version // to know the installed version
+git status //to know the status of the unchecked files
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+git branch -D <branchname> // detach(remove) the branch 
+
+Branches:
+==================================================================================================
+To list all branches:
+  git branch
+To create a branch:
+  git branch new-feature-X 
+To select a branch:
+  git checkout new-feature-X
+Make changes to code and commit changes the normal way:
+  git commit -a -m "some message"
+Can switch between branches with:
+  git checkout main
+  git checkout new-feature-X
+  
+Merge:
+========================================================================================
+To merge a branch to main: First checkout the main:
+  git checkout main
+Then merge the branch:
+  git merge new-feature-X

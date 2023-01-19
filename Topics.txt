@@ -1,0 +1,47 @@
+09/01
+------------------------------------------------------------
+DEV OPS
+Azure  Dev OPS , Jenkins (Competetor)  
+CI/CD
+
+Docs : https://azure.microsoft.com/en-us/
+Azure Portal : https://portal.azure.com
+Dev Ops : https://dev.azure.com 
+
+Azure Boards,Azure Repos,Azure Pipelines, Azure Artifacts
+
+Development 
+SIT   > SYstem INtegration Tesing   
+UAT  > User Accestance Testing	
+Production  
+===========================================================
+SDLC >  7 stages > https://www.javatpoint.com/software-engineering-software-development-life-cycle
+
+Waterfall   >> Manager, Developers, Testing, Maintenace
+Agile  >>  Scrum, Kanban  
+Product Owner, Scrum Master, Scrum Team  
+
+EPIC, Feature , User Stories , Tasks 
+
+1 Sprint >  14 days >> Tasks   >> Acceptance Criteria
+
+BackLog > what needs to be done
+
+Fibannoi series :  1 2 3 5 8 13
+
+
+1 > 6 
+
+PI Planning > BackLog > Sprint 
+
+Sprint Call >> 
+==================================================================================================== 
+1 Epic > 2 Feature > 3 Backlog	>  Task/Bugs/Test Cses 
+
+SBireddy_GPS@nec.edu
+Sricharan@1998
+=====================================================================================================
+Source control   >> Github , SVN , TFS 
+Github >> Free (Public), Licensed/Enterprised (Private)
+Github   >> Microsoft  
+=====================================================================================================
